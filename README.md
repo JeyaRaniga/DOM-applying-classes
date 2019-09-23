@@ -38,6 +38,6 @@ Notice that the fourth div in `index.html` has a class already: `invisible`. It'
 
 7. Call the `makeVisible` function from start. *Done*
 
-8. Reload the browser. If all has gone well, you should see a fourth div. If not, spend a little time troubleshooting, then reach out for help on slack. *it is visible*
+8. Reload the browser. If all has gone well, you should see a fourth div. If not, spend a little time troubleshooting, then reach out for help on slack. *It is visible*
 
 When you're done, make sure you stage, commit, and push your branch back to GitHub.
